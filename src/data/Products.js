@@ -14,18 +14,18 @@ const products = [
     description: "Waterproof and feature-rich smart watch.",
   },
   {
-    id: 3,
-    name: "Bluetooth Speaker",
-    price: 1999,
-    image: "https://www.bing.com/th/id/OIP.HMWWS2ecNHBRe8XzUvRi2QHaHa?w=169&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc4&dpr=1.3&pid=3.1&rm=2",
-    description: "Portable Bluetooth speaker with deep bass.",
-  },
-  {
     id: 4,
     name: "DSLR Camera",
     price: 24999,
     image: "https://www.bing.com/th/id/OIP.LmDjyN5vHMoX0XvjOJY3SQHaHa?w=204&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc4&dpr=1.3&pid=3.1&rm=2",
     description: "Professional DSLR camera for photography.",
+  },
+  {
+    id: 3,
+    name: "Bluetooth Speaker",
+    price: 1999,
+    image: "https://www.bing.com/th/id/OIP.HMWWS2ecNHBRe8XzUvRi2QHaHa?w=169&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc4&dpr=1.3&pid=3.1&rm=2",
+    description: "Portable Bluetooth speaker with deep bass.",
   },
   {
     id: 5,
